@@ -19,3 +19,7 @@ To add a new gesture:
 1. Update the `GESTURES` dictionary in `main.py` with the new gesture name and its corresponding finger extension pattern.
 2. Add a new condition in the `detect_gesture` function to recognize the gesture based on hand landmarks.
 3. Test the new gesture by running the program.
+
+## Demo Video
+https://github.com/user-attachments/assets/d4d5b03c-5de4-4f6c-996e-d8d7486034f8
+
